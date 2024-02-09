@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Protest+Revolution&family=Protest+Riot&family=Single+Day&display=swap');
+  body{
+    background-color: rgba(0, 0, 255, 0.54);
+  }
+  .container-quoute{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 700px;
+    margin: 7% auto;
+    background-color: rgba(255, 239, 239, 0.816);
+    border-radius: 10px;
+    height: 450px;
+    font-family: 'Protest Riot', sans-serif;
+    justify-content: center ;
+  }
+  .media-button {
+    display: flex;
+    align-items: flex-start;
+  }
+  #media-first{
+    margin-left:9%;
+  }
+  .media-button button {
+    width: 7%;
+    height: 100%;
+    margin: 0 5px 0 5px;  
+    border-radius: 40px;
+    border: 3px solid rgb(63, 127, 237);
+    cursor: pointer;
+    
+  }
+  .media-button img{
+    margin: 0 auto;
+    width: 32px;
+  }
+  #next-quote{
+    width:20%;
+    height: 110%;
+    border-radius: 7px;
+    margin:0 0 0 41%;
+    border: 3px solid rgb(63, 127, 237);
+    background-color: rgb(63, 127, 237);
+    color: white;
+    font-size:20px ;
+    font-family: 'Single Day', cursive;  
+    cursor: pointer;
+  }
+  .head-name{
+    display: flex;
+    justify-content: center;
+  }
+  #head-name{
+    font-size: 45px;
+    margin: 5% 0 0 0%;
+  }
+  .quote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 7% 0 10%;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+    width: 581px;
+    height: 150px;
+  }
+  .autor{
+    display: flex;
+    justify-content: right;
+    margin:0 4% 0 0;
+    padding-left: 400px;
+    font-size: 16px;
+  }
+  .new-quote{
+    display: flex;
+    justify-content: right;
+  }
+  #wrapper{
+    border-bottom: 1px solid gray;
+    margin: 4% auto;
+    padding: 0 38%;
+  }
+  .media-button button:active{
+    background-color:rgba(63, 127, 237, 0.407) ;
+  }
+  
+  
+  
+    
