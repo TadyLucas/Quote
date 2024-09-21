@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
   <diagram name="Page-1" id="sYMiPiu-Is_nX6wwwRNu">
-    <mxGraphModel dx="1366" dy="5357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="5227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ukTQ_eI5RrCxZxxaiQbG-1" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;FIF WEBSITE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="-20" width="680" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ukTQ_eI5RrCxZxxaiQbG-2" value="&lt;div&gt;In what we will do it?&lt;/div&gt;&lt;div&gt;-django&lt;/div&gt;&lt;div&gt;-spring boot&lt;/div&gt;&lt;div&gt;-ruby?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="370" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
